@@ -1,2 +1,3 @@
 # Openmmlab_Camp
-Openmmlab_AI_Camp 
+This repo is homework for Openmmlab_AI_Camp
+
