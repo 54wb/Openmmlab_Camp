@@ -1,7 +1,7 @@
 # Openmmlab_Camp
 This repo is homework for Openmmlab_AI_Camp    
 
-the format of everyhw is:   
+the format of every dir is:   
       hw/    
       |——base    
       |————config    
@@ -10,5 +10,6 @@ the format of everyhw is:
       |——————xxx.pth   
       |——advanced   
       |————config    
-      |————work_dirs    
+      |————work_dirs   
+   
 hw01 can be found:[mmcls](https://github.com/open-mmlab/OpenMMLabCamp/issues/6)   
