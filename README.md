@@ -12,4 +12,7 @@ the format of every dir is:
       |————config    
       |————work_dirs   
    
-hw01 can be found:[mmcls](https://github.com/open-mmlab/OpenMMLabCamp/issues/6)   
+requirements for hw01 can be found:[mmcls](https://github.com/open-mmlab/OpenMMLabCamp/issues/6)   
+
+###results
+
