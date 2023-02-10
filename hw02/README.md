@@ -1,5 +1,5 @@
-```HTML
-<video width=60% height=auto controls>
-<source src="base/color_splash_balloon.mp4" type="video/mp4">
-</video>
-```
+| Hw       | Training Dateset | Bbox_AP | Segm_AP | Config                                                                                                          | Download                                                                                |
+|:--------:|:----------------:|:-------:|:-------:|:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| Base     | Balloon          | 78.35   | 79.62   | [config](https://github.com/54wb/Openmmlab_Camp/blob/master/hw02/base/configs/htc_without_semantic_r50_fpn_1x_balloon.py) | [model](https://github.com/54wb/Openmmlab_Camp/releases/download/hw02_base_pth/htc_epoch_12.pth) |
+| advanced | DOTA             | 78.03   |         |                                                                                                                 |                                                                                         |
+
