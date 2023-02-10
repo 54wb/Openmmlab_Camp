@@ -1,7 +1,11 @@
 ## 基础作业
 
 #### 数据准备
-下载balloon数据集后按照coco格式准备数据   
+下载balloon数据集后按照coco格式准备数据 
+```
+python base/ballon2coco.py data/balloon/val/via_region_data.json instances_val.json data/balloon/val
+```
+数据格式如下：   
 data   
 |——balloon   
 |————annotations  
